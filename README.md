@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* 🔭 I’m currently working on the Isb Dashboard.
+* 🌱 I’m currently learning with help from Isb-mrosbund.
+* ⚡ Fun fact: This README has been prepared for illustrative purposes only.
+
 <!--
 **isb-tkappmeier/isb-tkappmeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
